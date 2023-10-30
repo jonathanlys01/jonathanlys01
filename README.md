@@ -20,6 +20,16 @@
 [<img src="https://img.shields.io/badge/GitHub-gray?logo=github" width="13%" alt="GitHub">](https://github.com/jonathanlys01)
 </div>
 
+## My stats 📊
+
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)"  srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=jonathanlys01&layout=compact&theme=vision-friendly-dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=jonathanlys01&layout=compact&theme=vision-friendly-light">
+  <img alt="Theme sensitive GitHub stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonathanlys01&layout=compact&theme=vision-friendly-dark" width=40%>
+</picture>
+</div>
+
 ---
 
 ```mermaid
