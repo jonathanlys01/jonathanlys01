@@ -34,7 +34,7 @@
 
 ```mermaid
     timeline
-      title My formation 🎓
+      title My education 🎓
         section IMT Atlantique <br> ⏤⏤⏤⏤⏤⏤⏤⏤ <br> Engineering school <br> (2021 - 2024)
           University of Technology Sydney : Academic exchange <br> (02/2023 – 06/2023)
           Université de Rennes 1 : SiVOS Master <br> (2023-2024)
