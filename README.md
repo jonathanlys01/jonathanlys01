@@ -3,11 +3,11 @@
 
 ## Hi there 👋
 - 👨‍💻 I am Jonathan LYS, a final-year engineering student at [IMT Atlantique](https://www.imt-atlantique.fr/en), currently seeking a 6-month internship (starting in April 2024) in the field of deep learning applied to computer vision. 
-- 🎓 My educational background includes an engineering degree, an one semester academic exchange at [UTS](https://www.uts.edu.au) and a master's degree at [Université de Rennes 1](https://www.univ-rennes1.fr/en).
+- 🎓 My educational background includes an engineering degree (IMT Atlantique), a one semester academic exchange at [UTS](https://www.uts.edu.au) and a master's degree at [Université de Rennes 1](https://www.univ-rennes1.fr/en).
 - 💻 I'm currently working on a [deep learning project](https://github.com/NewS0ul/ProCom) and its associated paper about the use of deep foundation networks for few-shot learning.
 - 📘 My last internship was at IMT Atlantique, where I worked on the [fine-tuning of the Segment Anytthing Model (SAM)](https://github.com/jonathanlys01/accelerate-sam) and [better augmentation with DiNOv2](https://github.com/jonathanlys01/beyond_sota_w_sam)
 
-## 📫 How to reach me
+## How to reach me 📫 
 
 <div align="center">
 
