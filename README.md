@@ -5,20 +5,31 @@
 </picture>
 
 ## Hi there 👋
-- 👨‍💻 I am Jonathan LYS, a final-year engineering student at [IMT Atlantique](https://www.imt-atlantique.fr/en), currently seeking a 6-month internship (starting in April 2024) in the field of deep learning applied to computer vision. 
-- 🎓 My educational background includes an engineering degree (IMT Atlantique), a one semester academic exchange at [UTS](https://www.uts.edu.au) and a master's degree at [Université de Rennes 1](https://www.univ-rennes1.fr/en).
-- 💻 I'm currently working on a [deep learning project](https://github.com/NewS0ul/ProCom) and its associated paper about the use of deep foundation networks for few-shot learning.
-- 📘 My last internship was at IMT Atlantique, where I worked on the [fine-tuning of the Segment Anytthing Model (SAM)](https://github.com/jonathanlys01/accelerate-sam) and [better augmentation with DiNOv2](https://github.com/jonathanlys01/beyond_sota_w_sam)
+- 👨‍💻 I am Jonathan LYS, a final-year engineering student at [IMT Atlantique](https://www.imt-atlantique.fr/en), currently seeking a 6-month internship (starting in April 2024) in the field of deep learning, applied to computer vision or NLP. 
+- 💻 I'm currently working on a [deep learning project](https://github.com/NewS0ul/ProCom) and in the process of writing its associated paper about the use of deep foundation networks for few-shot learning.
+- 📘 My last internship was at IMT Atlantique, where I worked on the [fine-tuning of the Segment Anytthing Model (SAM)](https://github.com/jonathanlys01/accelerate-sam) and [better image augmentation with DiNOv2](https://github.com/jonathanlys01/beyond_sota_w_sam)
 
-## How to reach me 📫 
+---
+
+## How to reach me 📫
 
 <div align="center">
 
-[![Mail](https://img.shields.io/badge/Mail-gray?logo=gmail)](mailto:jonathan.lys@imt-atlantique.net)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/jonathan-lys/)
-[![GitHub](https://img.shields.io/badge/GitHub-gray?logo=github)](https://github.com/jonathanlys01)
-
+[<img src="https://img.shields.io/badge/Mail-gray?logo=gmail" width="10%" alt="Mail">](mailto:jonathan.lys@imt-atlantique.net)
+[<img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin" width="15%" alt="LinkedIn">](https://www.linkedin.com/in/jonathan-lys/)
+[<img src="https://img.shields.io/badge/GitHub-gray?logo=github" width="13%" alt="GitHub">](https://github.com/jonathanlys01)
 </div>
+
+---
+
+```mermaid
+    timeline
+      title My formation 🎓
+        section IMT Atlantique <br> ⏤⏤⏤⏤⏤⏤⏤⏤ <br> Engineering school <br> (2021 - 2024)
+          University of Technology Sydney : Academic exchange <br> (02/2023 – 06/2023)
+          Université de Rennes 1 : SiVOS Master <br> (2023-2024)
+```
+
 
 
 
