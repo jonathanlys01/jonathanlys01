@@ -13,8 +13,7 @@
 
 [![Mail](https://img.shields.io/badge/Mail-gray?logo=gmail)](mailto:jonathan.lys@imt-atlantique.net)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/jonathan-lys/)
-[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github#gh-light-mode-only)](https://github.com/jonathanlys01)
-[![GitHub](https://img.shields.io/badge/GitHub-gray?logo=github#gh-dark-mode-only)](https://github.com/jonathanlys01)
+[![GitHub](https://img.shields.io/badge/GitHub-gray?logo=github)](https://github.com/jonathanlys01)
 
 </div>
 
