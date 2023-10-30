@@ -29,7 +29,9 @@
           University of Technology Sydney : Academic exchange <br> (02/2023 – 06/2023)
           Université de Rennes 1 : SiVOS Master <br> (2023-2024)
 ```
-
+1. [MSc. in Engineering "Diplôme d'Ingénieur"](https://www.imt-atlantique.fr/en/study/engineering)
+2. [UTS Study Abroad program](https://www.uts.edu.au/study/international/study-abroad-and-exchange-uts)
+3. [SiVOS MSc. (fr)](https://istic.univ-rennes.fr/master-2-spia-parcours-signal-vision-ondes-systemes-sivos)
 
 
 
