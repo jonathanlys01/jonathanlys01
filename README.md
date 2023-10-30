@@ -1,5 +1,5 @@
-![Banner Light](assets/light.jpg#gh-light-mode-only)
-![Banner Dark](assets/dark.jpg#gh-dark-mode-only)
+![Banner Light](assets/light.jpeg#gh-light-mode-only)
+![Banner Dark](assets/dark.jpeg#gh-dark-mode-only)
 
 ## Hi there 👋
 - 👨‍💻 I am Jonathan LYS, a final-year engineering student at [IMT Atlantique](https://www.imt-atlantique.fr/en), currently seeking a 6-month internship (starting in April 2024) in the field of deep learning applied to computer vision. 
