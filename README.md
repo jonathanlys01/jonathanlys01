@@ -1,5 +1,8 @@
-![Banner Light](assets/light.jpeg#gh-light-mode-only)
-![Banner Dark](assets/dark.jpeg#gh-dark-mode-only)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/dark.jpeg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/light.jpeg">
+  <img alt="Theme sensitive banner" src="assets/dark.jpeg">
+</picture>
 
 ## Hi there 👋
 - 👨‍💻 I am Jonathan LYS, a final-year engineering student at [IMT Atlantique](https://www.imt-atlantique.fr/en), currently seeking a 6-month internship (starting in April 2024) in the field of deep learning applied to computer vision. 
