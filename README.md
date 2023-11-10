@@ -13,7 +13,7 @@
 </div>
 
 - 👨‍💻 I am final-year engineering student at [IMT Atlantique](https://www.imt-atlantique.fr/en), currently seeking a 6-month internship (starting in April 2024) in the field of deep learning, applied to computer vision or NLP. 
-- 💻 I'm currently working on a [deep learning project](https://github.com/NewS0ul/ProCom) and in the process of writing its associated paper about the use of deep foundation networks for few-shot learning.
+- 💻 I'm currently working on a [deep learning project](https://github.com/NewS0ul/ProCom) and in the process of writing its associated paper about the use of deep foundation networks for few-shot learning. I am also studying the zero-shot capabilities of the [Contrastive Language-Audio Pretraining (CLAP) model](https://github.com/jonathanlys01/DL_2023_CLAP).
 - 📘 My last internship was at IMT Atlantique, where I worked on the [fine-tuning of the Segment Anytthing Model (SAM)](https://github.com/jonathanlys01/accelerate-sam) and [better image augmentation with DiNOv2](https://github.com/jonathanlys01/beyond_sota_w_sam)
 
 ---
