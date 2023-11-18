@@ -6,7 +6,7 @@
 
 <div align="center">
   <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=1000&pause=1000&color=F757F7&center=true&random=false&width=435&lines=Hello%2C+I+am+Jonathan+Lys;Welcome+to+my+repo!">
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=1000&pause=1000&color=F7F7F7&center=true&random=false&width=435&lines=Hello%2C+I+am+Jonathan+Lys;Welcome+to+my+repo!">
   <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=1000&pause=1000&color=304076&center=true&random=false&width=435&lines=Hello%2C+I+am+Jonathan+Lys;Welcome+to+my+repo!">
   <img alt="Theme sensitive banner" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=1000&pause=1000&color=304076&center=true&random=false&width=435&lines=Hello%2C+I+am+Jonathan+Lys;Welcome+to+my+repo!" width="100%">
   </picture>
