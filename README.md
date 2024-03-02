@@ -31,9 +31,9 @@
 
 <div align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)"  srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=jonathanlys01&layout=compact&theme=github_dark_dimmed&langs_count=8">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=jonathanlys01&layout=compact&theme=swift&langs_count=8">
-  <img alt="Theme sensitive GitHub stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonathanlys01&layout=compact&theme=github_dark_dimmed" width=40%>
+  <source media="(prefers-color-scheme: dark)"  srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=jonathanlys01&layout=compact&theme=github_dark_dimmed&langs_count=10">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=jonathanlys01&layout=compact&theme=swift&langs_count=10">
+  <img alt="Theme sensitive GitHub stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonathanlys01&layout=compact&theme=github_dark_dimmed&langs_count=10" width=40%>
 </picture>
 </div>
 
