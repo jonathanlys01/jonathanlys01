@@ -25,6 +25,7 @@
 [<img src="https://img.shields.io/badge/Mail-gray?logo=gmail" width="10%" alt="Mail">](mailto:jonathan.lys@imt-atlantique.net)
 [<img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin" width="15%" alt="LinkedIn">](https://www.linkedin.com/in/jonathan-lys/)
 [<img src="https://img.shields.io/badge/GitHub-gray?logo=github" width="13%" alt="GitHub">](https://github.com/jonathanlys01)
+[<img src="https://img.shields.io/badge/Website-blue?logo=jekyll" width="14%" alt="WebSite">](https://jonathanlys01.github.io)
 </div>
 
 ## My stats 📊
