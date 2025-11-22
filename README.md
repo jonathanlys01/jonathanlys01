@@ -18,9 +18,10 @@
 
 ## How to reach me 📫
 
-<div align="center" style="transform: scale(1.2);">
 
-[<img src="https://img.shields.io/badge/Mail-gray?logo=gmail" alt="Mail">](mailto:jonathan.lys@imt-atlantique.net)
+<div align="center" style="transform: scale(1.8);">
+
+[<img src="https://img.shields.io/badge/Mail-gray?logo=gmail" alt="Mail">](mailto:jonathan.lys@imt-atlantique.org)
 [<img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin" alt="LinkedIn">](https://www.linkedin.com/in/jonathan-lys/)
 [<img src="https://img.shields.io/badge/GitHub-gray?logo=github" alt="GitHub">](https://github.com/jonathanlys01)
 [<img src="https://img.shields.io/badge/HuggingFace-gray?logo=huggingface" alt="HuggingFace">](https://huggingface.co/jonathan-lys)
