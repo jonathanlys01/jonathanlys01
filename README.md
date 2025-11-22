@@ -12,20 +12,19 @@
   </picture>
 </div>
 
-- 👨‍💻 I am final-year engineering student at [IMT Atlantique](https://www.imt-atlantique.fr/en), currently working on diffusion models at Criteo AI Lab, as part of my internship.
-- 💻 I'm currently working on a [deep learning project](https://github.com/NewS0ul/ProCom) and in the process of writing its associated paper about the use of deep foundation networks for few-shot learning. I am also studying the zero-shot capabilities of the [Contrastive Language-Audio Pretraining (CLAP) model](https://github.com/jonathanlys01/DL_2023_CLAP).
-- 📘 My last internship was at IMT Atlantique, where I worked on the [fine-tuning of the Segment Anytthing Model (SAM)](https://github.com/jonathanlys01/accelerate-sam) and [better image augmentation with DiNOv2](https://github.com/jonathanlys01/beyond_sota_w_sam)
+👨‍💻 I am a second-year PhD student at IMT Atlantique in the [BRoader Artificial Intelligence (BRAIN)](http://recherche.imt-atlantique.fr/brain/) team. My research interests include deep learning, computer vision, and natural language processing, with a focus on diffusion based generative models.
 
 ---
 
 ## How to reach me 📫
 
-<div align="center">
+<div align="center" style="transform: scale(1.2);">
 
-[<img src="https://img.shields.io/badge/Mail-gray?logo=gmail" width="10%" alt="Mail">](mailto:jonathan.lys@imt-atlantique.net)
-[<img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin" width="15%" alt="LinkedIn">](https://www.linkedin.com/in/jonathan-lys/)
-[<img src="https://img.shields.io/badge/GitHub-gray?logo=github" width="13%" alt="GitHub">](https://github.com/jonathanlys01)
-[<img src="https://img.shields.io/badge/Website-blue?logo=jekyll" width="14%" alt="WebSite">](https://jonathanlys01.github.io)
+[<img src="https://img.shields.io/badge/Mail-gray?logo=gmail" alt="Mail">](mailto:jonathan.lys@imt-atlantique.net)
+[<img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin" alt="LinkedIn">](https://www.linkedin.com/in/jonathan-lys/)
+[<img src="https://img.shields.io/badge/GitHub-gray?logo=github" alt="GitHub">](https://github.com/jonathanlys01)
+[<img src="https://img.shields.io/badge/HuggingFace-gray?logo=huggingface" alt="HuggingFace">](https://huggingface.co/jonathan-lys)
+[<img src="https://img.shields.io/badge/Website-blue?logo=jekyll" alt="WebSite">](https://jonathanlys01.github.io)
 </div>
 
 ## My stats 📊
