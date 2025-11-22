@@ -42,13 +42,15 @@
 ```mermaid
     timeline
       title My education 🎓
-        section IMT Atlantique <br> ⏤⏤⏤⏤⏤⏤⏤⏤ <br> Engineering school <br> (2021 - 2024)
+        section IMT Atlantique <br> ⏤⏤⏤⏤⏤⏤⏤⏤ <br> Engineering degree <br> (2021 - 2024)
           University of Technology Sydney : Academic exchange <br> (02/2023 – 06/2023)
           Université de Rennes 1 : SiVOS Master <br> (2023-2024)
+        section IMT Atlantique <br> ⏤⏤⏤⏤⏤⏤⏤⏤ <br> PhD <br> (2024 - 2027)
 ```
 1. [MSc. in Engineering "Diplôme d'Ingénieur"](https://www.imt-atlantique.fr/en/study/engineering)
 2. [UTS Study Abroad program](https://www.uts.edu.au/study/international/study-abroad-and-exchange-uts)
 3. [SiVOS MSc. (fr)](https://istic.univ-rennes.fr/master-2-spia-parcours-signal-vision-ondes-systemes-sivos)
+4. [PhD at IMT Atlantique](https://www.imt-atlantique.fr/en/research-innovation/phd/degree)
 
 
 <!--
