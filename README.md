@@ -125,15 +125,8 @@ flowchart LR
 
 ---
 
-### Background
 ### 🎓 Background & Experience
 
-* **2024 – Present** — PhD Candidate in Machine Learning, IMT Atlantique *(BRAIN team)*
-* **2024** — Visiting Scientist, Sony Europe *(Brest, France)*
-* **2023 – 2024** — M.Sc. in Signal, Vision, Waves, Systems (SiVOS), Université de Rennes 1
-* **2023** — Research Intern, Criteo AI Lab *(Paris, France)*
-* **2023** — Academic Exchange, University of Technology Sydney (UTS)
-* **2021 – 2024** — Diplôme d'Ingénieur (M.Sc. in Engineering), IMT Atlantique
 * **2024 – Present** — **PhD Candidate in Machine Learning**, IMT Atlantique *(BRAIN Team, Brest)*
 * **2024** — **Visiting Scientist**, Sony Europe *(Brest, France)*
 * **2023 – 2024** — **M.Sc. SiVOS** *(Signal, Vision, Waves, Systems)*, Université de Rennes 1
