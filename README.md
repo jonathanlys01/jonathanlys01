@@ -4,7 +4,6 @@
   <img alt="Jonathan Lys" src="assets/dark.jpeg" width="100%">
 </picture>
 
-# Jonathan Lys
 <h1 align="center">Jonathan Lys</h1>
 
 > I study how masked models learn representations and generate diverse outputs.
