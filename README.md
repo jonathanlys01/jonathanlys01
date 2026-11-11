@@ -1,70 +1,55 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/dark.jpeg">
   <source media="(prefers-color-scheme: light)" srcset="assets/light.jpeg">
-  <img alt="Theme sensitive banner" src="assets/dark.jpeg" width="100%">
+  <img alt="Jonathan Lys" src="assets/dark.jpeg" width="100%">
 </picture>
 
-<div align="center">
-  <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=1000&pause=1000&color=F7F7F7&center=true&random=false&width=435&lines=Hello%2C+I+am+Jonathan+Lys;Welcome+to+my+repo!">
-  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=1000&pause=1000&color=304076&center=true&random=false&width=435&lines=Hello%2C+I+am+Jonathan+Lys;Welcome+to+my+repo!">
-  <img alt="Theme sensitive banner" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=1000&pause=1000&color=304076&center=true&random=false&width=435&lines=Hello%2C+I+am+Jonathan+Lys;Welcome+to+my+repo!" width="100%">
-  </picture>
-</div>
+# Jonathan Lys
 
-👨‍💻 I am a second-year PhD student at IMT Atlantique in the [BRoader Artificial Intelligence (BRAIN)](http://recherche.imt-atlantique.fr/brain/) team. My research interests include deep learning, computer vision, and natural language processing, with a focus on diffusion based generative models.
+> I study how masked models learn representations and generate diverse outputs.
+
+Third-year PhD candidate at **[IMT Atlantique](https://www.imt-atlantique.fr/en)** in the **[BRAIN team](http://recherche.imt-atlantique.fr/brain/)** (Brest, France). My work focuses on discrete diffusion, diversity-aware decoding, and EEG foundation models.
+
+Previously Visiting Scientist at **Sony Europe** and Research Intern at **Criteo AI Lab**.
+
+[Website](https://jonathanlys01.github.io) &nbsp;·&nbsp;
+[Google Scholar](https://scholar.google.com/citations?user=heUq7WEAAAAJ) &nbsp;·&nbsp;
+[Hugging Face](https://huggingface.co/jonathan-lys) &nbsp;·&nbsp;
+[ORCID](https://orcid.org/0009-0006-7908-843X) &nbsp;·&nbsp;
+[LinkedIn](https://www.linkedin.com/in/jonathan-lys/) &nbsp;·&nbsp;
+[Email](mailto:jonathan.lys@imt-atlantique.org)
 
 ---
 
-## How to reach me 📫
+### Selected Work
 
+* **REVE: A Foundation Model for EEG — Adapting to Any Setup with Large-Scale Pretraining on 25,000 Subjects**  
+  *NeurIPS 2025*  
+  Pretrained foundation model adapting to arbitrary electrode layouts across clinical and cognitive domains.  
+  [[Paper]](https://arxiv.org/abs/2510.21585) &nbsp;·&nbsp; [[Project Page]](https://brain-bzh.github.io/reve/) &nbsp;·&nbsp; [[Models & Data]](https://huggingface.co/collections/brain-bzh/reve) &nbsp;·&nbsp; [[Braindecode]](https://braindecode.org/stable/generated/braindecode.models.REVE.html) &nbsp;·&nbsp; [[Embedding Atlas]](https://jonathanlys01.github.io/projects/reve-atlas/)
 
-<div align="center" style="transform: scale(1.8);">
+* **D5P4: Partition Determinantal Point Process for Diversity in Parallel Discrete Diffusion Decoding**  
+  *arXiv 2026*  
+  Balancing quality and generation diversity in parallel discrete diffusion models.  
+  [[Paper]](https://arxiv.org/abs/2603.19146)
 
-[<img src="https://img.shields.io/badge/Mail-gray?logo=gmail" alt="Mail">](mailto:jonathan.lys@imt-atlantique.org)
-[<img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin" alt="LinkedIn">](https://www.linkedin.com/in/jonathan-lys/)
-[<img src="https://img.shields.io/badge/GitHub-gray?logo=github" alt="GitHub">](https://github.com/jonathanlys01)
-[<img src="https://img.shields.io/badge/HuggingFace-gray?logo=huggingface" alt="HuggingFace">](https://huggingface.co/jonathan-lys)
-[<img src="https://img.shields.io/badge/Website-blue?logo=jekyll" alt="WebSite">](https://jonathanlys01.github.io)
-</div>
+* **Inner Loop Inference for Pretrained Transformers: Unlocking Latent Capabilities Without Training**  
+  *EUSIPCO 2026*  
+  Extending computation depth in frozen Transformers by revisiting internal layers during inference.  
+  [[Paper]](https://arxiv.org/abs/2602.14759)
 
-## My stats 📊
-
-<div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)"  srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=jonathanlys01&layout=compact&theme=github_dark_dimmed&langs_count=10">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=jonathanlys01&layout=compact&theme=swift&langs_count=10">
-  <img alt="Theme sensitive GitHub stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonathanlys01&layout=compact&theme=github_dark_dimmed&langs_count=10" width=40%>
-</picture>
-</div>
+* **TensLoRA: Tensor Alternatives for Low-Rank Adaptation**  
+  *ICASSP 2026*  
+  Tensor decompositions for parameter-efficient adaptation of large models.  
+  [[Paper]](https://arxiv.org/abs/2509.19391)
 
 ---
 
-```mermaid
-    timeline
-      title My education 🎓
-        section IMT Atlantique <br> ⏤⏤⏤⏤⏤⏤⏤⏤ <br> Engineering degree <br> (2021 - 2024)
-          University of Technology Sydney : Academic exchange <br> (02/2023 – 06/2023)
-          Université de Rennes 1 : SiVOS Master <br> (2023-2024)
-        section IMT Atlantique <br> ⏤⏤⏤⏤⏤⏤⏤⏤ <br> PhD <br> (2024 - 2027)
-```
-1. [MSc. in Engineering "Diplôme d'Ingénieur"](https://www.imt-atlantique.fr/en/study/engineering)
-2. [UTS Study Abroad program](https://www.uts.edu.au/study/international/study-abroad-and-exchange-uts)
-3. [SiVOS MSc. (fr)](https://istic.univ-rennes.fr/master-2-spia-parcours-signal-vision-ondes-systemes-sivos)
-4. [PhD at IMT Atlantique](https://www.imt-atlantique.fr/en/research-innovation/phd/degree)
+### Background
 
-
-<!--
-**jonathanlys01/jonathanlys01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* **2024 – Present** — PhD Candidate in Machine Learning, IMT Atlantique *(BRAIN team)*
+* **2024** — Visiting Scientist, Sony Europe *(Brest, France)*
+* **2023 – 2024** — M.Sc. in Signal, Vision, Waves, Systems (SiVOS), Université de Rennes 1
+* **2023** — Research Intern, Criteo AI Lab *(Paris, France)*
+* **2023** — Academic Exchange, University of Technology Sydney (UTS)
+* **2021 – 2024** — Diplôme d'Ingénieur (M.Sc. in Engineering), IMT Atlantique
