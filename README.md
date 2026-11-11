@@ -4,13 +4,16 @@
   <img alt="Jonathan Lys" src="assets/dark.jpeg" width="100%">
 </picture>
 
+# Jonathan Lys
 <h1 align="center">Jonathan Lys</h1>
 
+> I study how masked models learn representations and generate diverse outputs.
 <p align="center">
   <b>PhD Candidate in Machine Learning · IMT Atlantique (<a href="http://recherche.imt-atlantique.fr/brain/">BRAIN Team</a>)</b><br>
   <i>Investigating discrete diffusion, diversity-aware decoding, and foundation models for biosignals.</i>
 </p>
 
+Third-year PhD candidate at **[IMT Atlantique](https://www.imt-atlantique.fr/en)** in the **[BRAIN team](http://recherche.imt-atlantique.fr/brain/)** (Brest, France). My work focuses on discrete diffusion, diversity-aware decoding, and EEG foundation models.
 <p align="center">
   <a href="https://jonathanlys01.github.io"><img src="https://img.shields.io/badge/Website-jonathanlys01.github.io-2563EB?style=flat-square&logo=google-chrome&logoColor=white" alt="Website"></a>
   <a href="https://scholar.google.com/citations?user=heUq7WEAAAAJ"><img src="https://img.shields.io/badge/Google_Scholar-Citations-4285F4?style=flat-square&logo=google-scholar&logoColor=white" alt="Google Scholar"></a>
@@ -20,8 +23,15 @@
   <a href="mailto:jonathan.lys@imt-atlantique.org"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
+Previously Visiting Scientist at **Sony Europe** and Research Intern at **Criteo AI Lab**.
 ---
 
+[Website](https://jonathanlys01.github.io) &nbsp;·&nbsp;
+[Google Scholar](https://scholar.google.com/citations?user=heUq7WEAAAAJ) &nbsp;·&nbsp;
+[Hugging Face](https://huggingface.co/jonathan-lys) &nbsp;·&nbsp;
+[ORCID](https://orcid.org/0009-0006-7908-843X) &nbsp;·&nbsp;
+[LinkedIn](https://www.linkedin.com/in/jonathan-lys/) &nbsp;·&nbsp;
+[Email](mailto:jonathan.lys@imt-atlantique.org)
 ### 🔬 Research Map
 
 ```mermaid
@@ -38,8 +48,13 @@ flowchart LR
 
 ---
 
+### Selected Work
 ### 🌟 Selected Work & Contributions
 
+* **REVE: A Foundation Model for EEG — Adapting to Any Setup with Large-Scale Pretraining on 25,000 Subjects**  
+  *NeurIPS 2025*  
+  Pretrained foundation model adapting to arbitrary electrode layouts across clinical and cognitive domains.  
+  [[Paper]](https://arxiv.org/abs/2510.21585) &nbsp;·&nbsp; [[Project Page]](https://brain-bzh.github.io/reve/) &nbsp;·&nbsp; [[Models & Data]](https://huggingface.co/collections/brain-bzh/reve) &nbsp;·&nbsp; [[Braindecode]](https://braindecode.org/stable/generated/braindecode.models.REVE.html) &nbsp;·&nbsp; [[Embedding Atlas]](https://jonathanlys01.github.io/projects/reve-atlas/)
 <table>
   <tr>
     <td width="50%" valign="top">
@@ -81,10 +96,22 @@ flowchart LR
   </tr>
 </table>
 
+* **D5P4: Partition Determinantal Point Process for Diversity in Parallel Discrete Diffusion Decoding**  
+  *arXiv 2026*  
+  Balancing quality and generation diversity in parallel discrete diffusion models.  
+  [[Paper]](https://arxiv.org/abs/2603.19146)
 ---
 
+* **Inner Loop Inference for Pretrained Transformers: Unlocking Latent Capabilities Without Training**  
+  *EUSIPCO 2026*  
+  Extending computation depth in frozen Transformers by revisiting internal layers during inference.  
+  [[Paper]](https://arxiv.org/abs/2602.14759)
 ### 🛠️ Toolkit & Technologies
 
+* **TensLoRA: Tensor Alternatives for Low-Rank Adaptation**  
+  *ICASSP 2026*  
+  Tensor decompositions for parameter-efficient adaptation of large models.  
+  [[Paper]](https://arxiv.org/abs/2509.19391)
 <p>
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch">
   <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="Hugging Face">
@@ -98,30 +125,18 @@ flowchart LR
 
 ---
 
+### Background
 ### 🎓 Background & Experience
 
+* **2024 – Present** — PhD Candidate in Machine Learning, IMT Atlantique *(BRAIN team)*
+* **2024** — Visiting Scientist, Sony Europe *(Brest, France)*
+* **2023 – 2024** — M.Sc. in Signal, Vision, Waves, Systems (SiVOS), Université de Rennes 1
+* **2023** — Research Intern, Criteo AI Lab *(Paris, France)*
+* **2023** — Academic Exchange, University of Technology Sydney (UTS)
+* **2021 – 2024** — Diplôme d'Ingénieur (M.Sc. in Engineering), IMT Atlantique
 * **2024 – Present** — **PhD Candidate in Machine Learning**, IMT Atlantique *(BRAIN Team, Brest)*
 * **2024** — **Visiting Scientist**, Sony Europe *(Brest, France)*
 * **2023 – 2024** — **M.Sc. SiVOS** *(Signal, Vision, Waves, Systems)*, Université de Rennes 1
 * **2023** — **Research Intern**, Criteo AI Lab *(Paris, France)*
 * **2023** — **Academic Exchange**, University of Technology Sydney (UTS)
 * **2021 – 2024** — **Diplôme d'Ingénieur**, IMT Atlantique
-
----
-
-<details>
-<summary><b>📊 GitHub Activity & Stats</b></summary>
-<br>
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=jonathanlys01&show_icons=true&theme=github_dark_dimmed&hide_border=true&count_private=true">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=jonathanlys01&show_icons=true&theme=swift&hide_border=true&count_private=true">
-    <img src="https://github-readme-stats.vercel.app/api?username=jonathanlys01&show_icons=true&hide_border=true" alt="GitHub Stats" width="48%">
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=jonathanlys01&layout=compact&theme=github_dark_dimmed&hide_border=true">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=jonathanlys01&layout=compact&theme=swift&hide_border=true">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonathanlys01&layout=compact&hide_border=true" alt="Top Languages" width="45%">
-  </picture>
-</p>
-</details>
